@@ -60,3 +60,30 @@ padding: 0.5rem 1rem;
     display: inline;
     padding: 0rem 1rem;
 }
+
+/* navigation */
+
+.navigation{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+  
+}
+
+.navigation.nav-developer{
+    font-weight:  bold;;
+    font-size: medium;
+}
+
+.navigaion.nav-pills{
+    text-align: center;
+}
+
+.navigation .link {
+    color: white;
+}
+
+.navigation .link-active{
+    font-weight: bold;
+}
