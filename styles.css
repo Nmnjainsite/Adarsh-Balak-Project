@@ -5,7 +5,8 @@
     --primary-color: #60a5fa;
 
 --neutral-color: #525252;
-    
+
+--gray-color: #e5e7eb;    
 }
 
 body{
@@ -16,6 +17,7 @@ body{
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px;
 }
 
 hr{
@@ -77,7 +79,7 @@ padding: 0.5rem 1rem;
     font-weight:  bold;;
     font-size: medium;
 }
-
+ 
 .navigaion.nav-pills{
     text-align: center;
 }
@@ -110,4 +112,40 @@ margin: auto;
 
 .hero .hero-heading .inverted{
     color: var(--primary-color)
+}
+
+/* section */
+
+.section{
+    padding: 1rem;
+}
+
+.section h1{
+    text-align: center;
+}
+.ow {
+
+background-color: var(--gray-color)
+}
+
+
+/* footer */
+
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    border-top-right-radius: 1rem;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+}
+
+.footer .link{
+    color: white;
+}
+
+.footer .ul{
+padding-inline-start: 0px;
 }
