@@ -1,13 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
+
+:root{
+    --primary-color: indigo
+    ;
+}
+
 body{
     color: black;
 }
+
+
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+hr{
+    margin: 1rem 0rem;
+}
 .container{
     padding-left: 1rem;
     padding-right: 1rem;
@@ -16,4 +27,25 @@ body {
 .container-center {
     max-width: 600px;
     margin: auto;
+}
+
+/* linkss */
+.link {
+
+text-decoration: none;
+padding: 0.5rem 1 rem;
+}
+
+.link-primary {
+    background-color:var(--primary-color);
+    border-radius: 0.5rem ;
+    border: 1px;
+    color: white;
+}
+
+.link-secondary
+{
+    color:var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
 }
