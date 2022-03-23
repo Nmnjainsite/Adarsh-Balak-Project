@@ -76,7 +76,7 @@ padding: 0.5rem 1rem;
 }
 
 .navigation.nav-developer{
-    font-weight:  bold;;
+    font-weight:  bolder;;
     font-size: medium;
 }
  
@@ -96,6 +96,7 @@ padding: 0.5rem 1rem;
 
 .hero{
     padding: 2rem;
+    padding-top: 2rem;
 }
 
 .hero .hero-img{
