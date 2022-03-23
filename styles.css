@@ -72,17 +72,9 @@ padding: 0.5rem 1rem;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
-  
-}
-
-.navigation.nav-developer{
-    font-weight:  bolder;;
-    font-size: medium;
-}
- 
-.navigaion.nav-pills{
     text-align: center;
 }
+
 
 .navigation .link {
     color: white;
@@ -140,13 +132,14 @@ background-color: var(--gray-color)
 }
 
 .footer .footer-header{
-    font-weight: bold;
+    font-weight: bolder;
+    padding-top: 1rem;
 }
 
 .footer .link{
     color: white;
 }
 
-.footer .ul{
-padding-inline-start: 0px;
-}
+/* .footer .li .list-item-inline{
+text-align: center;
+} */
