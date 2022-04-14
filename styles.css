@@ -139,6 +139,19 @@ background-color: var(--gray-color)
     color: white;
 }
 
+.dummy-one{
+    text-align: center;
+    color:var(--neutral-color)
+}
+
+.small-one{
+    text-align: center;
+}
+
+.dummy-two{
+text-align: center;
+color: var(--neutral-color);
+}
 /* .footer .li .list-item-inline{
 text-align: center;
 } */
