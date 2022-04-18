@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 
+
 :root{
     --primary-color: #60a5fa;
 
@@ -31,6 +32,7 @@ hr{
 .container-center {
     max-width: 600px;
     margin: auto;
+
 }
 
 /* linkss */
@@ -56,7 +58,8 @@ padding: 0.5rem 1rem;
 
 /* lists */
 
-.list-non-bullet {
+
+.list-non-bullet{
     list-style: none;
 } 
 
@@ -120,7 +123,9 @@ margin: auto;
 background-color: var(--gray-color)
 }
 
-
+.list-non-bullet-container{
+    list-style: none;
+}
 /* footer */
 
 .footer{
@@ -133,6 +138,8 @@ background-color: var(--gray-color)
 .footer .footer-header{
     font-weight: bolder;
     padding-top: 1rem;
+    font-style: ;
+    font-size: large;
 }
 
 .footer .link{
@@ -152,6 +159,9 @@ background-color: var(--gray-color)
 text-align: center;
 color: var(--neutral-color);
 }
+
+
 /* .footer .li .list-item-inline{
 text-align: center;
 } */
+
