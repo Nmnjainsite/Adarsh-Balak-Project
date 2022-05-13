@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
-
-
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Macondo&family=Oleo+Script+Swash+Caps&family=Signika+Negative:wght@500;600&display=swap');
 
 :root{
     --primary-color: #60a5fa;
@@ -17,7 +16,9 @@ body{
 
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Signika Negative', sans-serif;
+    
     margin: 0px;
 }
 
