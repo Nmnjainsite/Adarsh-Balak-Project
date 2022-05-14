@@ -11,6 +11,7 @@
 
 body{
     color: black;
+    background-color: var(--neutral-color);
 }
 
 
@@ -103,7 +104,7 @@ margin: auto;
 .hero .hero-heading{
     padding top: 1rem;
     text-align: center;
-    color: var(--neutral-color);
+    color: black;
 }
 
 .hero .hero-heading .inverted{
@@ -149,7 +150,7 @@ background-color: var(--gray-color)
 
 .dummy-one{
     text-align: center;
-    color:var(--neutral-color)
+    color:black;
 }
 
 .small-one{
@@ -158,7 +159,7 @@ background-color: var(--gray-color)
 
 .dummy-two{
 text-align: center;
-color: var(--neutral-color);
+color: black;;
 }
 
 
