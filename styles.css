@@ -6,22 +6,22 @@
 
 --neutral-color: yellow;
 
---gray-color: #e5e7eb;    
+--gray-color: white;    
 }
 
 body{
     color: black;
     background-color: var(--neutral-color);
-}
-
-
-
-body {
-    /* font-family: 'Source Sans Pro', sans-serif; */
-    font-family: 'Signika Negative', sans-serif;
+    /* font-family: 'Signika Negative', sans-serif; */
+    font-family: cursive;
     
     margin: 0px;
+   
 }
+
+
+
+
 
 hr{
     margin: 1rem 0rem;
