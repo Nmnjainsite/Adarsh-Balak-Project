@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Macondo&family=Oleo+Script+Swash+Caps&family=Signika+Negative:wght@500;600&display=swap');
 
 :root{
-    --primary-color: #60a5fa;
+    --primary-color: black;
 
---neutral-color: #525252;
+--neutral-color: yellow;
 
 --gray-color: #e5e7eb;    
 }
@@ -96,13 +96,14 @@ padding: 0.5rem 1rem;
 }
 
 .hero .hero-img{
-max-width: 350px;
+max-width: 500px;
 display: block;
 margin: auto;
+height: 40vh;
 }
 
 .hero .hero-heading{
-    padding top: 1rem;
+    padding-top: 1rem;
     text-align: center;
     color: black;
 }
@@ -131,16 +132,18 @@ background-color: var(--gray-color)
 /* footer */
 
 .footer{
+    color: #e5e7eb;
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 1.5rem 2rem;
     text-align: center;
+    font-family: cursive;
     border-top-right-radius: 1rem;
 }
 
 .footer .footer-header{
     font-weight: bolder;
     padding-top: 1rem;
-    font-style: ;
+    
     font-size: large;
 }
 
