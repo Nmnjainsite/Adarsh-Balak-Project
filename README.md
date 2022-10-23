@@ -4,18 +4,18 @@ Projects
 
 [MCU Quiz](https://replit.com/@NamanJain48/MCU-QUIZ#index.js) 
 
-* questions related to mcu
-* used readlinesync for make an interaction 
+* This quiz have questions related to MCU
+* I have used readlinesync package for make an interaction with user.
 
  [How well do you know me?](https://replit.com/@NamanJain48/namanquiz#index.js) 
  
- * questions related to me
-* used readlinesync for make an interaction 
+ * This quiz is about me
+* I have made this quiz on node.js.  
 
 [My Website](https://jainnmn.netlify.app/)  
-  * I have built my website with pure html & css
-  *<img width="933" alt="172688074-b4b00afd-8792-473c-b5a6-ba0ee1683453" src="https://user-images.githubusercontent.com/101793920/197403410-e9d31f3e-cb0e-4fb4-a44a-b33548600b04.png">
-
+  * I have built my website with pure html & css.
+  
+  ![software-developer-copy](https://user-images.githubusercontent.com/101793920/197403622-7e880081-0d54-4736-b542-b61db695dabe.jpg)
   
 [Avatar](https://component-library-beta.vercel.app/avatar.html)  
 * Image-size-grouped
