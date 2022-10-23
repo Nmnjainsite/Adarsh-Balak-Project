@@ -4,7 +4,7 @@ Projects
 
 [MCU Quiz](https://replit.com/@NamanJain48/MCU-QUIZ#index.js) 
 
-* This quiz have questions related to MCU
+* This quiz has questions related to MCU
 * I have used readlinesync package for make an interaction with user.
 
  [How well do you know me?](https://replit.com/@NamanJain48/namanquiz#index.js) 
@@ -16,71 +16,44 @@ Projects
 
   * I have built my website with pure html & css.
  
- ![Screenshot 2022-10-23 215921](https://user-images.githubusercontent.com/101793920/197404064-9b0f57b2-9371-4bae-8b50-ca5aeeeb8fe0.png)
+ * ![Screenshot 2022-10-23 215921](https://user-images.githubusercontent.com/101793920/197404064-9b0f57b2-9371-4bae-8b50-ca5aeeeb8fe0.png)
 
   
-[Avatar](https://component-library-beta.vercel.app/avatar.html)  
-* Image-size-grouped
+[Minions Translation App](https://nmnjain.netlify.app/)  
 
-[Badge](https://component-library-beta.vercel.app/badge.html)  
-* Badge on Icon
-* Badge on Avatar
+ * This app will translate your sentence into minionese.
 
-[Button](https://component-library-beta.vercel.app/button.html)  
-* Primary
-* Outlined
-* Disabled
-* Warning
-* Success
-* Error
-* Large 
-* Medium
-* Small
-* Link
-* Icon Button
-* Floating
+[Cash Register Manager](https://cashmanagementapp.netlify.app/)  
+* This is an cash manager app that will help the user to return minimum number of notes.
 
-[Card](https://component-library-beta.vercel.app/card.html) 
-* Cards with badges
-* Cards with dismiss
-* Cards with text overlay
-* Text only cards
-* Vertical/Horizontal cards
-* Cards with shadow
+[Is your birthday lucky?](https://isyourbirthdaylucky2022.netlify.app/)  
+* This app will tell the user whether his/her birthday is lucky or not.
 
-[Grid](https://component-library-beta.vercel.app/grid.html) 
-* Template Columns:4 Items in a grid column
-* Template Areas
+[Emoji Mantraa](https://emojis-mantraa.vercel.app/) 
+* Emoji Mantraa will help you to find the meaning of the emojis.
 
-[Image](https://component-library-beta.vercel.app/image.html) 
-* Standard image list
-* Sized images
-* Round image
+[Movie Maniaa](https://moviemania-five.vercel.app/) 
+* Movie is about my favourite movies and series.
+* It has different genres.
 
-[Input](https://component-library-beta.vercel.app/input.html) 
-* Text Login Box
-* Sign Up Form
-* Radio - checkbox - file input - date & time
+[Yoda Speaks](https://yodishversion.netlify.app/) 
+ * This app will translate your sentence into yodish language.
 
-[Lists](https://component-library-beta.vercel.app/list.html) 
-* Spaced (basic List)
-* Stacked (notification Page)
+[Is your Birthday Palindrome?](https://palindromeeapp.netlify.app/) 
+* This app is about palindrome birthday.
+* I have created this app on vanilla js.
 
-[Modal](https://component-library-beta.vercel.app/modal.html) 
-* Simple Modal
-* Nested Modal
+[Stock Purchase App](https://stockpurchase.netlify.app/) 
+* This app will guide the user whether he/she is in loss or earning profits.
 
-[Navigation](https://component-library-beta.vercel.app/nav.html) 
-* Desktop(Simple)
+[Fun with triangles](https://funwithmaths.netlify.app/) 
+* This app has four pages.
 
-[Rating](https://component-library-beta.vercel.app/rating.html) (for eCommerce)
+[Triangle Quiz](https://funwithmaths.netlify.app/quiz.html)
+* This quiz is related to triangles.
 
-[Slider](https://component-library-beta.vercel.app/slider.html) 
-* Volume Slider
-* Image SLider
+[Hypotenuse](https://funwithmaths.netlify.app/hypotenuse.html)
+* You can calculate hypotenuse.
 
-[Snackbar](https://component-library-beta.vercel.app/snackbar.html)
-* [Toast/Notify](https://component-library-beta.vercel.app/snackbar.html)
-* Email
-* Add To Cart
-* Positioned snackbars
+[Check Area of a Triangle](https://funwithmaths.netlify.app/area.html)
+* As the name says you can check the area of a triangle.
