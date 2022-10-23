@@ -60,4 +60,4 @@ Projects
 
 # Blogs
 
-[This blog is about web development.](https://jainnmn.netlify.app/blogs.html)
+[This blog is about web development & javaScript.](https://jainnmn.netlify.app/blogs.html)
