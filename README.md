@@ -61,3 +61,4 @@ Projects
 # Blogs
 
 [This blog is about web development & javaScript.](https://jainnmn.netlify.app/blogs.html)
+* These are just dummy blogs.
