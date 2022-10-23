@@ -57,3 +57,7 @@ Projects
 
 [Check Area of a Triangle](https://funwithmaths.netlify.app/area.html)
 * As the name says you can check the area of a triangle.
+
+# Blogs
+
+[This blog is about web development.](https://jainnmn.netlify.app/blogs.html)
