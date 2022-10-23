@@ -16,7 +16,7 @@ Projects
 
   * I have built my website with pure html & css.
  
- * ![Screenshot 2022-10-23 215921](https://user-images.githubusercontent.com/101793920/197404064-9b0f57b2-9371-4bae-8b50-ca5aeeeb8fe0.png)
+ ![Screenshot 2022-10-23 215921](https://user-images.githubusercontent.com/101793920/197404064-9b0f57b2-9371-4bae-8b50-ca5aeeeb8fe0.png)
 
   
 [Avatar](https://component-library-beta.vercel.app/avatar.html)  
