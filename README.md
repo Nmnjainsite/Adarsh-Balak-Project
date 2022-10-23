@@ -13,9 +13,11 @@ Projects
 * I have made this quiz on node.js.  
 
 [My Website](https://jainnmn.netlify.app/)  
+
   * I have built my website with pure html & css.
   
-  ![software-developer-copy](https://user-images.githubusercontent.com/101793920/197403622-7e880081-0d54-4736-b542-b61db695dabe.jpg)
+![Screenshot 2022-10-23 215921](https://user-images.githubusercontent.com/101793920/197403979-42652cae-9147-4f0c-9d04-1425e3f5baa1.png)
+
   
 [Avatar](https://component-library-beta.vercel.app/avatar.html)  
 * Image-size-grouped
