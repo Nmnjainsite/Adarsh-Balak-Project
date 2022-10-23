@@ -33,7 +33,7 @@ Projects
 * Emoji Mantraa will help you to find the meaning of the emojis.
 
 [Movie Maniaa](https://moviemania-five.vercel.app/) 
-* Movie is about my favourite movies and series.
+* movieMania is about my favourite movies and series.
 * It has different genres.
 
 [Yoda Speaks](https://yodishversion.netlify.app/) 
