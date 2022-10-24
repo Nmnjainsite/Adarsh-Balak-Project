@@ -46,8 +46,11 @@ Projects
 [Stock Purchase App](https://stockpurchase.netlify.app/) 
 * This app will guide the user whether he/she is in loss or earning profits.
 
-[Fun with triangles](https://funwithmaths.netlify.app/) 
+ Fun with triangles
 * This app has four pages.
+
+[Is Triangle](https://funwithmaths.netlify.app/) 
+* Put the value of your question and know whether its triangle or not?
 
 [Triangle Quiz](https://funwithmaths.netlify.app/quiz.html)
 * This quiz is related to triangles.
