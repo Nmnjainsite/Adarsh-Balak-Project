@@ -19,8 +19,6 @@ hr {
   margin: 1rem 0rem;
 }
 .container {
-  /* padding-left: 1rem;
-  padding-right: 1rem; */
   padding: 1rem;
 }
 
@@ -149,35 +147,31 @@ hr {
   text-align: center;
   color: black;
 }
-.typography {
-  font-size: 1.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 5rem;
-}
+
 .grid-layout {
   display: flex;
-  margin-left: 10%;
-  margin-top: 1rem;
   flex-wrap: nowrap;
-  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  padding: 5rem;
+}
+
+.typography {
+  padding: 5rem;
 }
 
 @media (max-width: 900px) {
   .grid-layout {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    margin-left: 10%;
-    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
     flex-wrap: nowrap;
-    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    padding: 1rem;
   }
   .typography {
-    font-size: 1.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem;
+    padding: 1rem;
   }
 }
